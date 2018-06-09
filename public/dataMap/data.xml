@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<markers>
+ <marker id="1" name="algerie" lat="24.340655" lng="3.000724" type="paneau" etat="1"/>
+ <marker id="2" name="canada" lat="58.062516" lng="-114.596932" type="plaque" etat="0"/>
+ <marker id="3" name="usa" lat="37.973272" lng="-101.413339" type="paneau" etat="1"/>
+ <marker id="4" name="home" lat="34.874984" lng="-1.37255" type="plaque" etat="0"/>
+ <marker id="5" name="russie" lat="62.0079" lng="75.071036" type="plaque" etat="1"/>
+ <marker id="6" name="test" lat="51.012071" lng="-28.815682" type="abrisdebus" etat="1"/>
+ <marker id="7" name="chine" lat="37.36803" lng="96.867911" type="" etat="0"/>
+ <marker id="8" name="brazilia" lat="-9.017946" lng="-53.249276" type="abrisdebus" etat="1"/>
+ <marker id="9" name="test" lat="36.735174" lng="3.114278" type="paneau" etat="0"/>
+ <marker id="10" name="test 2" lat="36.74219" lng="3.040292" type="plaque" etat="0"/>
+ <marker id="12" name="arty" lat="36.665532" lng="2.85095" type="paneau" etat="0"/>
+ <marker id="13" name="gggg" lat="36.652312" lng="3.435972" type="plaque" etat="0"/>
+ <marker id="14" name="yyyyy" lat="36.528817" lng="2.905882" type="abrisdebus" etat="1"/>
+ <marker id="15" name="yyyyyuu" lat="36.460368" lng="2.430723" type="paneau" etat="1"/>
+ <marker id="16" name="iiiiiii" lat="36.409545" lng="3.246458" type="plaque" etat="1"/>
+ <marker id="17" name="bdtez" lat="36.340991" lng="2.919614" type="abrisdebus" etat="0"/>
+</markers>
